@@ -5,9 +5,9 @@
 
 - 📫 How to reach me **jezieljunior29@hotmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeziel-jr&show_icons=true&theme=radical&locale=en&layout=compact" alt="jeziel-jr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeziel-jr&show_icons=true&theme=algolia&locale=en&layout=compact" alt="jeziel-jr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeziel-jr&show_icons=true&theme=radical&locale=en" alt="jeziel-jr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeziel-jr&show_icons=true&theme=algolia&locale=en" alt="jeziel-jr" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
