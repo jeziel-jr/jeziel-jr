@@ -73,13 +73,6 @@
 | [**PingTools**](https://github.com/jeziel-jr/pingtools) | [![GitHub issues](https://img.shields.io/github/issues/jeziel-jr/pingtools?color=green&logo=github&style=flat)](https://github.com/jeziel-jr/pingtools/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/jeziel-jr/pingtools?style=flat&logo=github)](https://github.com/jeziel-jr/pingtools/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/jeziel-jr/pingtools?style=flat&color=critical&logo=github)](https://github.com/jeziel-jr/pingtools/pulls?q=is%3Apr+is%3Aclosed) | [![GitHub last commit](https://img.shields.io/github/last-commit/jeziel-jr/pingtools?color=blue&logo=github&style=flat)](https://github.com/jeziel-jr/pingtools/commits/) |
 | [**Ignite Timer**](https://github.com/jeziel-jr/ignite-timer)                  | [![GitHub issues](https://img.shields.io/github/issues/jeziel-jr/ignite-timer?color=green&logo=github&style=flat)](https://github.com/jeziel-jr/ignite-timer/issues)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr/jeziel-jr/ignite-timer?style=flat&logo=github)](https://github.com/jeziel-jr/ignite-timer/pulls)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/jeziel-jr/ignite-timer?style=flat&color=critical&logo=github)](https://github.com/jeziel-jr/ignite-timer/pulls?q=is%3Apr+is%3Aclosed)                           | [![GitHub last commit](https://img.shields.io/github/last-commit/jeziel-jr/ignite-timer?color=blue&logo=github&style=flat)](https://github.com/jeziel-jr/ignite-timer/commits/)|
 
-	
-<h4 align="center">Isometric view of contributions in the last year</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
-	</a>
-</p>
 
 ## ⚡️Github Contributions
 	
