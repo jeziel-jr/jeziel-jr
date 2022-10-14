@@ -91,7 +91,7 @@
 ## 🐛Github Magic Game
 
 <p align="center">
-  <img src="https://github.com/jeziel-jr/jeziel-jr/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/jeziel-jr/jeziel-jr/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 <br>
 
