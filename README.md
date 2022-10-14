@@ -5,14 +5,10 @@
 <p align="center">
 <a href="https://github.com/jeziel-jr"><img src="https://readme-typing-svg.herokuapp.com?lines=Javascript+Developer;React+Developer;Front-end+Developer&center=true&width=500&height=50"></a>
 
-### I'm a Python Developer, Teacher and Researcher!
+### I'm a Front-end Developer!
 
-- 🔭 I’m currently working as Backend Engineer.
-- 🌱 I’m currently expanding my knowledge in MERN Stack.
-- 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 600 students.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
-- 💎 If you are a Tech boy/girl let's get connected
+- 🔭 I am currently working as a Fron-end developer.
+- 🌱 I am currently expanding my knowledge on TailwindCSS and Storybook.
 
 <h2>Tech Stack</h2>
 
