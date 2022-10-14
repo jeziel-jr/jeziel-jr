@@ -71,12 +71,8 @@
 | [**Github Profile**](https://github.com/jeziel-jr/transcript_summary)    | [![GitHub issues](https://img.shields.io/github/issues/jeziel-jr/jeziel-jr?color=green&logo=github&style=flat)](https://github.com/jeziel-jr/jeziel-jr/issues)       | [![GitHub PRs](https://img.shields.io/github/issues-pr/jeziel-jr/jeziel-jr?style=flat&logo=github)](https://github.com/jeziel-jr/jeziel-jr/pulls)       | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/jeziel-jr/jeziel-jr?style=flat&color=critical&logo=github)](https://github.com/jeziel-jr/jeziel-jr/pulls?q=is%3Apr+is%3Aclosed)     | [![GitHub last commit](https://img.shields.io/github/last-commit/jeziel-jr/jeziel-jr?color=blue&logo=github&style=flat)](https://github.com/jeziel-jr/jeziel-jr/commits/)       |
 | [**Trivia Challenge**](https://github.com/jeziel-jr/trivia-challenge)                   | [![GitHub issues](https://img.shields.io/github/issues/jeziel-jr/trivia-challenge?color=green&logo=github&style=flat)](https://github.com/jeziel-jr/trivia-challenge/issues)                       | [![GitHub PRs](https://img.shields.io/github/issues-pr/jeziel-jr/trivia-challenge?style=flat&logo=github)](https://github.com/jeziel-jr/trivia-challenge/pulls)                       | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/jeziel-jr/trivia-challenge?style=flat&color=critical&logo=github)](https://github.com/jeziel-jr/trivia-challenge/pulls?q=is%3Apr+is%3Aclosed)                       | [![GitHub last commit](https://img.shields.io/github/last-commit/jeziel-jr/trivia-challenge?color=blue&logo=github&style=flat)](https://github.com/jeziel-jr/trivia-challenge/commits/)                       |
 | [**PingTools**](https://github.com/jeziel-jr/pingtools) | [![GitHub issues](https://img.shields.io/github/issues/jeziel-jr/pingtools?color=green&logo=github&style=flat)](https://github.com/jeziel-jr/pingtools/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/jeziel-jr/pingtools?style=flat&logo=github)](https://github.com/jeziel-jr/pingtools/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/jeziel-jr/pingtools?style=flat&color=critical&logo=github)](https://github.com/jeziel-jr/pingtools/pulls?q=is%3Apr+is%3Aclosed) | [![GitHub last commit](https://img.shields.io/github/last-commit/jeziel-jr/pingtools?color=blue&logo=github&style=flat)](https://github.com/jeziel-jr/pingtools/commits/) |
-| [**Ignite Timer**](https://github.com/jeziel-jr/ignite-timer)                  | [![GitHub issues](https://img.shields.io/github/issues/jeziel-jr/ignite-timer?color=green&logo=github&style=flat)](https://github.com/jeziel-jr/ignite-timer/issues)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr/jeziel-jr/ignite-timer?style=flat&logo=github)](https://github.com/jeziel-jr/ignite-timer/pulls)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/jeziel-jr/ignite-timer?style=flat&color=critical&logo=github)](https://github.com/jeziel-jr/ignite-timer/pulls?q=is%3Apr+is%3Aclosed)                           | [![GitHub last commit](https://img.shields.io/github/last-commit/jeziel-jr/ignite-timer?color=blue&logo=github&style=flat)](https://github.com/jeziel-jr/ignite-timer/commits/)                           |
+| [**Ignite Timer**](https://github.com/jeziel-jr/ignite-timer)                  | [![GitHub issues](https://img.shields.io/github/issues/jeziel-jr/ignite-timer?color=green&logo=github&style=flat)](https://github.com/jeziel-jr/ignite-timer/issues)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr/jeziel-jr/ignite-timer?style=flat&logo=github)](https://github.com/jeziel-jr/ignite-timer/pulls)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/jeziel-jr/ignite-timer?style=flat&color=critical&logo=github)](https://github.com/jeziel-jr/ignite-timer/pulls?q=is%3Apr+is%3Aclosed)                           | [![GitHub last commit](https://img.shields.io/github/last-commit/jeziel-jr/ignite-timer?color=blue&logo=github&style=flat)](https://github.com/jeziel-jr/ignite-timer/commits/)|
 
- 
-[![@sadi's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@sadi)
-
-## ⚡️Github Contributions
 	
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
@@ -88,16 +84,16 @@
 ## 🚀Github Metrics
 
 <p align="center">
-	<img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
+	<img width="625em" src="https://github.com/jeziel-jr/jeziel-jr/blob/main/github-metrics.svg" />
 </p>	
 ## 🐛Github Magic Game
 
 <p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/jeziel-jr/jeziel-jr/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
 
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
+  <img src="https://profile-counter.glitch.me/jeziel-jr/count.svg" />
 </p>
