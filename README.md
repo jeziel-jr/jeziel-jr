@@ -4,13 +4,6 @@
   </div>
 <p align="center">
 <a href="https://github.com/jeziel-jr"><img src="https://readme-typing-svg.herokuapp.com?lines=Javascript+Developer;React+Developer;Front-end+Developer&center=true&width=500&height=50"></a>
-	
- ## Bootcamp alert
-- [MLSA UET Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) will started soon.
-<img align="right" alt="" src="fresh.jpg" width="30%" />
-	
-## My Python Development Course 
-- [Youtube channel for Tips](https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ)
 
 ### I'm a Python Developer, Teacher and Researcher!
 
