@@ -52,8 +52,9 @@
 	  
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/jeziel-junior/"><img src="https://img.shields.io/badge/-Jeziel Junior-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jezieljunior29@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jeziel-junior/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+"/></a>
+<a href="mailto:jezieljunior29@hotmail.com"><img src="https://img.shields.io/badge/- jezieljunior29@hotmail.com-D14836?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
 <a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
