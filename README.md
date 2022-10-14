@@ -15,7 +15,7 @@
 <table width="80%">
 <tr>
     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     </td>
 
   <td align='center' width="200">
