@@ -61,7 +61,7 @@
  
 |Stats />|Streak />|Languages />
 |---|---|---|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeziel-jr&theme=algolia)|[![GitHub Streak](https://streak-stats.demolab.com/?user=jeziel-jr&theme=algolia&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeziel-jr&theme=algolia)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeziel-jr&theme=dark)|[![GitHub Streak](https://streak-stats.demolab.com/?user=jeziel-jr&theme=algolia&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeziel-jr&theme=algolia)|
  
 	
 ## Personal Projects
