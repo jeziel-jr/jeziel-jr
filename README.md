@@ -51,17 +51,22 @@
 </table>
 	  
 </p>
-<p align="center">
+<p align="center" width="200">
 <a target="_blank" href="https://www.linkedin.com/in/jeziel-junior/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="mailto:jezieljunior29@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 <a target="_blank" href="https://www.instagram.com/jezieljuniordev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5581994038969"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
  </p>
  
+<div align="center" >
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeziel-jr&theme=algolia"/>
+&emsp;	
+&emsp;	
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeziel-jr&layout=compact&theme=algolia"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=jeziel-jr&theme=algolia&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/>		
+</div>
  
-|Stats />|Streak />|Languages />
-|---|---|---|
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeziel-jr&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)|[![GitHub Streak](https://streak-stats.demolab.com/?user=jeziel-jr&theme=algolia&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeziel-jr&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)|
+
  
 	
 ## Personal Projects
