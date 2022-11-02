@@ -59,10 +59,8 @@
  </p>
  
 <div align="center" >
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeziel-jr&theme=algolia"/>
-&emsp;	
-&emsp;	
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeziel-jr&layout=compact&theme=algolia"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeziel-jr&theme=algolia"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeziel-jr&layout=compact&theme=algolia"/>
 <img height="180em" src="https://streak-stats.demolab.com/?user=jeziel-jr&theme=algolia&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/>		
 </div>
  
