@@ -1,104 +1,17 @@
-<body>
-  <div align="center">
-    <h1> Hi there, I'm Jeziel Junior👋<a href="#"></h1>
-  </div>
-<p align="center">
-<a href="https://github.com/jeziel-jr"><img src="https://readme-typing-svg.herokuapp.com?lines=Javascript+Developer;React+Developer;Front-end+Developer&center=true&width=500&height=50"></a>
-
-### I'm a Front-end Developer!
-
-- 🔭 I am currently working as a Fron-end developer.
-- 🌱 I am currently expanding my knowledge on TailwindCSS and Storybook.
-
-<h2>Tech Stack</h2>
-
-<table width="80%">
-<tr>
-    <td align='center' width="200">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
-    </td>
-
-  <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="100">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
-    </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
- <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="70">
-    </td>
- 
-</tr>
- 
-<tr>
-    <td align='center' width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
-    </td>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
-    </td>
-    <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
-    </td>
-    <td align='center' width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="90">
-    </td>
-</tr>
- 
-</table>
-	  
-</p>
-<p align="center" width="200">
-<a target="_blank" href="https://www.linkedin.com/in/jeziel-junior/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank" href="mailto:jezieljunior29@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-<a target="_blank" href="https://www.instagram.com/jezieljuniordev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5581994038969"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
- </p>
- 
-<div align="center" >
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeziel-jr&theme=algolia"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeziel-jr&layout=compact&theme=algolia"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=jeziel-jr&theme=algolia&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/>		
-</div>
- 
-
- 
-	
-## Personal Projects
-
-| Project :octocat:                                                                | Issues :bug:                                                                                                                                                                             | Open PRs :bell:                                                                                                                                                             | Closed PRs :fire:                                                                                                                                                                                                       | Last Commit 🚩                                                                                                                                                                                      |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**Github Profile**](https://github.com/jeziel-jr/transcript_summary)    | [![GitHub issues](https://img.shields.io/github/issues/jeziel-jr/jeziel-jr?color=green&logo=github&style=flat)](https://github.com/jeziel-jr/jeziel-jr/issues)       | [![GitHub PRs](https://img.shields.io/github/issues-pr/jeziel-jr/jeziel-jr?style=flat&logo=github)](https://github.com/jeziel-jr/jeziel-jr/pulls)       | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/jeziel-jr/jeziel-jr?style=flat&color=critical&logo=github)](https://github.com/jeziel-jr/jeziel-jr/pulls?q=is%3Apr+is%3Aclosed)     | [![GitHub last commit](https://img.shields.io/github/last-commit/jeziel-jr/jeziel-jr?color=blue&logo=github&style=flat)](https://github.com/jeziel-jr/jeziel-jr/commits/)       |
-| [**Trivia Challenge**](https://github.com/jeziel-jr/trivia-challenge)                   | [![GitHub issues](https://img.shields.io/github/issues/jeziel-jr/trivia-challenge?color=green&logo=github&style=flat)](https://github.com/jeziel-jr/trivia-challenge/issues)                       | [![GitHub PRs](https://img.shields.io/github/issues-pr/jeziel-jr/trivia-challenge?style=flat&logo=github)](https://github.com/jeziel-jr/trivia-challenge/pulls)                       | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/jeziel-jr/trivia-challenge?style=flat&color=critical&logo=github)](https://github.com/jeziel-jr/trivia-challenge/pulls?q=is%3Apr+is%3Aclosed)                       | [![GitHub last commit](https://img.shields.io/github/last-commit/jeziel-jr/trivia-challenge?color=blue&logo=github&style=flat)](https://github.com/jeziel-jr/trivia-challenge/commits/)                       |
-| [**PingTools**](https://github.com/jeziel-jr/pingtools) | [![GitHub issues](https://img.shields.io/github/issues/jeziel-jr/pingtools?color=green&logo=github&style=flat)](https://github.com/jeziel-jr/pingtools/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/jeziel-jr/pingtools?style=flat&logo=github)](https://github.com/jeziel-jr/pingtools/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/jeziel-jr/pingtools?style=flat&color=critical&logo=github)](https://github.com/jeziel-jr/pingtools/pulls?q=is%3Apr+is%3Aclosed) | [![GitHub last commit](https://img.shields.io/github/last-commit/jeziel-jr/pingtools?color=blue&logo=github&style=flat)](https://github.com/jeziel-jr/pingtools/commits/) |
-| [**Ignite Timer**](https://github.com/jeziel-jr/ignite-timer)                  | [![GitHub issues](https://img.shields.io/github/issues/jeziel-jr/ignite-timer?color=green&logo=github&style=flat)](https://github.com/jeziel-jr/ignite-timer/issues)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr/jeziel-jr/ignite-timer?style=flat&logo=github)](https://github.com/jeziel-jr/ignite-timer/pulls)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/jeziel-jr/ignite-timer?style=flat&color=critical&logo=github)](https://github.com/jeziel-jr/ignite-timer/pulls?q=is%3Apr+is%3Aclosed)                           | [![GitHub last commit](https://img.shields.io/github/last-commit/jeziel-jr/ignite-timer?color=blue&logo=github&style=flat)](https://github.com/jeziel-jr/ignite-timer/commits/)|
+# 💫 About Me:
+Front-end Developer
 
 
-## ⚡️Github Contributions
-	
-<h4 align="center">Isometric view of contributions in the last year</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
-	</a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devjezieljunior) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeziel-junior) 
 
-## 🚀Github Metrics
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jeziel-jr&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jeziel-jr&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeziel-jr&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<p align="center">
-	<img width="625em" src="https://github.com/jeziel-jr/jeziel-jr/blob/main/github-metrics.svg" />
-</p>	
-## 🐛Github Magic Game
 
-<p align="center">
-  <img src="https://github.com/jeziel-jr/jeziel-jr/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
-<br>
 
-<p align="center"> 
-  Views<br>
-  <img src="https://profile-counter.glitch.me/jeziel-jr/count.svg" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
